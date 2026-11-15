@@ -33,3 +33,15 @@ body {
     --color-text-muted: #94A3B8;
     --color-text-subtle: #64748B;
 }
+
+a {
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: var(--color-accent-light);
+}
+
+a:focus-visible {
+    color: var(--color-accent-light);
+}
