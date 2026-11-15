@@ -1,0 +1,7 @@
+<svg data-dc-tpl="54" id="logo-5d" xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" data-om-id="7761be56:58">
+        <rect data-dc-tpl="55" width="600" height="600" rx="72" fill="#0F172A" data-om-id="7761be56:59"/>
+        <g data-dc-tpl="56" transform="translate(-5 0)" fill="none" stroke-width="30" stroke-linejoin="miter" stroke-linecap="butt" data-om-id="7761be56:60">
+          <path data-dc-tpl="57" d="M130 184 H250 V350 A70 70 0 0 1 114.2 373.9" stroke="#ffffff" data-om-id="7761be56:61"/>
+          <path data-dc-tpl="58" d="M342 184 H472 M407 184 V330" stroke="#4CBBAE" data-om-id="7761be56:62"/><circle data-dc-tpl="59" cx="407" cy="330" r="94" stroke="#0F172A" stroke-width="54" data-om-id="7761be56:63"/><circle data-dc-tpl="60" cx="407" cy="330" r="94" stroke="#4CBBAE" data-om-id="7761be56:64"/>
+        </g>
+      </svg>

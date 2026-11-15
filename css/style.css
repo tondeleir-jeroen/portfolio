@@ -1,0 +1,35 @@
+/* @import "tailwindcss"; */
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--color-background);
+    color: var(--color-text-primary);
+    font-family: var(--font-inter), sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* comment */
+
+:root {
+    /* Backgrounds */
+    --color-background: #0F172A;
+    --color-background-secondary: #111E41;
+
+    /* Accent colours */
+    --color-accent: #4CBBAE;
+    --color-accent-light: #5EEAD4;
+    --color-accent-dark: #0D9488;
+
+    /* Muted accent */
+    --color-muted-accent: #8F9EB3;
+
+    /* Typography */
+    --color-text-primary: #F8FAFC;
+    --color-text-secondary: #E2E8F0;
+    --color-text-tertiary: #CBD5E1;
+    --color-text-muted: #94A3B8;
+    --color-text-subtle: #64748B;
+}
